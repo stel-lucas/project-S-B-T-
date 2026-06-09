@@ -1,16 +1,13 @@
 # project-S-B-T-
 
+![project-S-B-T-](images/presentation-readme.png)
+
+
 ## Information
 
-Repository to track **project-S-B-T**'s progress.
-
-
-## Important sites
-
-Some important sites for this project are:
+Repository to host **project-S-B-T**'s files for readthedocs.
 
 - [ ] [The site of this project in readthedocs](https://docum-project.readthedocs.io)
-- [ ] [General information about sphinx](https://www.sphinx-doc.org/en/master/index.html)
 
 ***
 
