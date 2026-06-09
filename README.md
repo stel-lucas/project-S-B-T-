@@ -7,7 +7,7 @@
 
 Repository to host **project-S-B-T**'s files for readthedocs.
 
-- [ ] [The site of this project in readthedocs](https://docum-project.readthedocs.io)
+- [ ] [The site of this project in readthedocs](https://project-s-b-t.readthedocs.io/)
 
 ***
 
