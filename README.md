@@ -13,5 +13,5 @@ Repository to host **project-S-B-T**'s files for readthedocs.
 
 ## Disclaimer
 
-Project in under active developpe. [In case of problems](http://www.koalastothemax.com/).
+Project under active development. [In case of problems](http://www.koalastothemax.com/).
 
