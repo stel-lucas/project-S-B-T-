@@ -1,17 +1,33 @@
-.. project-S-B-T documentation master file, created by
-   sphinx-quickstart on Tue Jun  9 20:26:22 2026.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+project-S-B-T- Documentation
+============================
 
-project-S-B-T documentation
-===========================
+Welcome
+-------
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
+This page shows **project-S-B-T-**'s documentation using git-sphinx-readthedocs.
 
+
+Documentation
+-------------
+
+Two sections are defined in order to keep track of advances and to document ideas, contacts, etc.
+
+
+Contents
+--------
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :titlesonly:
+   :caption: Advances
 
+   advances/advance1
+
+.. toctree::
+   :titlesonly:
+   :caption: Others
+
+   others/others1
+
+.. important::
+
+   This project is under active development.
