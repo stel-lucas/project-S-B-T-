@@ -1,6 +1,12 @@
 Presentacion - Concepto
 =======================
 
+.. figure:: images/presentacion.png
+   :align: center
+   :target: https://sketchviz.com/@stel-lucas/bc0bfc428a6cad2c46b8eb9c583009bd/76734278d71d05eb2817a60e1ae3aae76b0e0e57.sketchy.png
+   
+   *Figura 1: Presentacion del concepto Sensor Ball.*
+
 Que es Sensor Ball?
 -------------------
 
