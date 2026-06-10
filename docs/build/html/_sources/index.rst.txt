@@ -1,33 +1,36 @@
-project-S-B-T- Documentation
-============================
+Documentacion: Proyecto Sensor Ball 
+===================================
 
-Welcome
--------
+Bienvenid@
+----------
 
-This page shows **project-S-B-T-**'s documentation using git-sphinx-readthedocs.
+Esta pagina es el sistema de documentacion del **Proyecto Sensor Ball**.
 
 
-Documentation
--------------
+Estructura de la documentacion
+------------------------------
 
-Two sections are defined in order to keep track of advances and to document ideas, contacts, etc.
-
+Se ha definido una seccion para la presentacion del proyecto y otra para registrar los avances.
 
 Contents
 --------
 
 .. toctree::
    :titlesonly:
-   :caption: Advances
+   :caption: Avances
 
    advances/advance1
 
 .. toctree::
    :titlesonly:
-   :caption: Others
+   :caption: Presentacion
 
-   others/others1
+   presentation/presentacion
 
 .. important::
 
-   This project is under active development.
+   Este proyecto se encuentra bajo desarrollo activo.
+   Sientete libre de contactarme: stel.lucas.ch@gmail.com
+
+*S'il y a une chance que ça marche, on dois l'essayer.*
+   
