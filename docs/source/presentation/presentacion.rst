@@ -1,6 +1,11 @@
 Presentacion - Concepto
 =======================
 
+.. figure:: images/presentacion.png
+   :align: center
+   
+   *Figura 1: Presentacion del concepto Sensor Ball.*
+
 Que es Sensor Ball?
 -------------------
 
