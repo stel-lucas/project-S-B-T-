@@ -12,14 +12,8 @@ Estructura de la documentacion
 
 Se ha definido una seccion para la presentacion del proyecto y otra para registrar los avances.
 
-Contents
---------
-
-.. toctree::
-   :titlesonly:
-   :caption: Avances
-
-   advances/advance1
+Contenidos
+----------
 
 .. toctree::
    :titlesonly:
@@ -27,10 +21,17 @@ Contents
 
    presentation/presentacion
 
+.. toctree::
+   :titlesonly:
+   :caption: Avances
+
+   advances/advance1
+
+
 .. important::
 
    Este proyecto se encuentra bajo desarrollo activo.
    Sientete libre de contactarme: stel.lucas.ch@gmail.com
 
-*S'il y a une chance que ça marche, on dois l'essayer.*
+*"S'il y a une chance que ça marche, on dois l'essayer."*
    
