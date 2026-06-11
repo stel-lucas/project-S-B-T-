@@ -9,7 +9,7 @@
 project = 'Proyecto-S-B'
 copyright = '2026, Lucas Stel'
 author = 'Lucas Stel'
-release = '1.0'
+release = ''
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration

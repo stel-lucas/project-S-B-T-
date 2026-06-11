@@ -1,11 +1,15 @@
-Documentacion: Proyecto Sensor Ball 
-===================================
+Proyecto Sensor Ball - Docs 
+===========================
 
 Bienvenid@
 ----------
 
 Esta pagina es el sistema de documentacion del **Proyecto Sensor Ball**.
 
+.. figure:: advances/images/vistasuperior.png
+   :align: center
+   :scale: 50 %
+   :alt: Description of image
 
 Estructura de la documentacion
 ------------------------------
