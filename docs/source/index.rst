@@ -26,6 +26,7 @@ Contenidos
    :caption: Avances
 
    advances/advance1
+   advances/advance2
 
 
 .. important::

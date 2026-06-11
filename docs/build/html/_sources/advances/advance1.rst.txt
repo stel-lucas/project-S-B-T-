@@ -1,5 +1,5 @@
-Avance 1 - Planteamiento, exploracion y primer aproximacion
-===========================================================
+Avance 1 - Principios basicos y concepto 
+========================================
 
 .. figure:: images/avance1.png
    :align: center
@@ -18,46 +18,3 @@ Formulacion del concepto
 
 * La respuesta es un sensor que se desplace. Que se mueva con el flujo, y lo mida continuamente. Desde un inicio hasta un final, desde un pozo colector hasta otro pozo, hasta otro ramal o hasta la planta de tratamiento.
 * Los tubos que conducen el agua son de seccion circular. Si un elemento debe moverse libremente debe presentar una forma que produzca la menor resitencia mecanica y pueda sobre pasar contornos, se pueda sumirgir y pueda recuperar libremente su flotabilidad.
-
-.. figure:: images/red_alcantarillado.png
-   :align: center
-   :scale: 40 %
-   :alt: Description of image
-   
-   *Figura 2: Sistema de colectores de agua: cilindros vericales son pozos, esfera roja el equipo sensor.*
-
-
-Test iniciales de componentes claves
-------------------------------------
-
-Estudio de como estan construidos los sensores que se comercializan actualmente. Como se componen, como estan armados y que tecnologias usan.
-
-
-   
-.. figure:: images/vistasuperior.png
-   :align: center
-   :scale: 50 %
-   :alt: Description of image
-   
-   *Figura 4: Sistema de colectores de agua: cilindros vericales son pozos, esfera roja el equipo sensor.*
-   
-.. figure:: images/vistaperspectiva.png
-   :align: center
-   :scale: 50 %
-   :alt: Description of image
-   
-   *Figura 4: Sistema de colectores de agua: cilindros vericales son pozos, esfera roja el equipo sensor.*
-   
-.. figure:: images/vistalateral.png
-   :align: center
-   :scale: 50 %
-   :alt: Description of image
-   
-   *Figura 3: Sistema de colectores de agua: cilindros vericales son pozos, esfera roja el equipo sensor.*
-   
-.. figure:: images/vistacomentarios_B.png
-   :align: center
-   :scale: 50 %
-   :alt: Description of image
-   
-   *Figura 3: Sistema de colectores de agua: cilindros vericales son pozos, esfera roja el equipo sensor.*
